@@ -83,6 +83,7 @@
 - [MacDown](http://macdown.uranusjr.com/)
 - [Xcode](https://developer.apple.com/xcode/ide/)
 - [WebStorm](https://www.jetbrains.com/webstorm/)
+- [Pandoc](http://www.pandoc.org/)
 
 
 ## 教育经历

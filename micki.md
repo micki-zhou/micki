@@ -52,11 +52,11 @@
 
 ### 编程语言
 
-- [Kotlin](http://kotlinlang.org)
-- [Java](https://www.java.com)
-- [Python](https://www.python.org)
-- [Swift](https://developer.apple.com/swift/)
-- [Html5](https://www.w3.org/TR/html5/)
+- [Kotlin(主编程语言)](http://kotlinlang.org)
+- [Java(主编程语言)](https://www.java.com)
+- [Python(写过爬虫)](https://www.python.org)
+- [Swift(闲暇时候拿来写IOS应用)](https://developer.apple.com/swift/)
+- [Html5(写过动画)](https://www.w3.org/TR/html5/)
 
 ### 框架
 
